@@ -1,0 +1,13 @@
+{
+  "itemGroup.dxenchantments": "Example Mod Tab",
+  "block.dxenchantments.example_block": "Example Block",
+  "item.dxenchantments.example_item": "Example Item",
+
+  "dxenchantments.configuration.title": "DX Enchantments+ Configs",
+  "dxenchantments.configuration.section.dxenchantments.common.toml": "DX Enchantments+ Configs",
+  "dxenchantments.configuration.section.dxenchantments.common.toml.title": "DX Enchantments+ Configs",
+  "dxenchantments.configuration.items": "Item List",
+  "dxenchantments.configuration.logDirtBlock": "Log Dirt Block",
+  "dxenchantments.configuration.magicNumberIntroduction": "Magic Number Text",
+  "dxenchantments.configuration.magicNumber": "Magic Number"
+}
